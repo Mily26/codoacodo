@@ -1,0 +1,31 @@
+.cac-logo {
+    width: 180px;
+}
+.menu {
+    text-align: right;
+    background-color: gray;
+    padding: 12px;
+}
+.menu a {
+    color: pink;
+}
+.content {
+    max-width: 800px;
+    margin: 60px auto;
+}
+.html-section {
+    margin-left: 15px;
+}
+.css-section {
+    margin-left: 15px;
+}
+.footer {
+    text-align: center;
+    background-color: gray;
+    padding: 10px;
+}
+.name {
+    color: pink;
+    font-style: italic;
+    font-weight: 600;
+}

@@ -1,0 +1,31 @@
+.content {
+    display: flex;
+    justify-content: center;
+    
+}
+.content div {
+    width: 90px;
+    height: 90px;
+    margin: 8px;
+}
+.one {
+    background-color: red;
+}
+.one p {
+    color: yellow;
+    margin-top: 0;
+}
+.two {
+    background-color: black;
+}
+.two p {
+    color: white;
+    margin-top: 0;
+}
+.three {
+    background-color: red;
+}
+.three p {
+    color: yellow;
+    margin-top: 0;
+}
